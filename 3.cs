@@ -7,4 +7,9 @@ class C
 	pubic void C1()
 	{
 	}
+
+	pubic void D1()
+	{
+		
+	}
 }
