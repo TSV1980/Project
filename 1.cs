@@ -6,3 +6,8 @@ public void GetRes()
 {
 	Console.Writeln('Hi boy');
 }
+
+public void GetSys()
+{
+	Console.Writeline('Second');
+}
